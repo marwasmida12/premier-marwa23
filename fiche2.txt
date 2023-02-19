@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hello from root
+=======
+hello from marwa 
+>>>>>>> b3c651473f9609901f161525728cf54c892d54f3
